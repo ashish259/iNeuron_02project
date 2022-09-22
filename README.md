@@ -21,6 +21,18 @@ https://github.com/ashish259/iNeuron_02project/blob/main/project2.jpg?raw=true)
 <a href="https://www.linkedin.com/in/ashish-20164b176/">Linkdin</a>
 
 
+<h4>live project</h4>
+
+<a href="https://clinquant-genie-5eefd6.netlify.app/">click here</a>
+
+
+## Contact
+
+- **Name :** Ashish yadav
+- **Email :** ashishydv093@gmail.com
+
+
+
 
 
 
