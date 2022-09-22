@@ -41,5 +41,3 @@ https://github.com/ashish259/iNeuron_02project/blob/main/project2.jpg?raw=true)
 
 
 
-
-https://github.com/ashish259/iNeuron_02project/blob/main/project2.jpg?raw=true
